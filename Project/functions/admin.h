@@ -1,3 +1,4 @@
+//printf
 #ifndef ADMIN_FUNCTIONS
 #define ADMIN_FUNCTIONSs 
 #include "./common.h"
