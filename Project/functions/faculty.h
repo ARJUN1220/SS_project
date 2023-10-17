@@ -1,4 +1,3 @@
-//faculty
 #ifndef FACULTY_FUNCTIONS
 #define FACULTY_FUNCTIONS
 

@@ -1,3 +1,4 @@
+//printf
 #ifndef CUSTOMER_FUNCTIONS
 #define CUSTOMER_FUNCTIONS
 
