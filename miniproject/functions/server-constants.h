@@ -130,7 +130,7 @@
 #define INITIAL_PROMPT \
 "********** Welcome to IIITB Academia Portal **********\n" \
 "                                                      \n" \
-"                 Select Your Role                     \n" \
+"   Select Your Role                                   \n" \
 "                                                      \n" \
 "   1.  Admin                                          \n" \
 "   2.  Faculty                                        \n" \
@@ -142,7 +142,7 @@
 
 
 #define ADMIN_MENU \
-"        You are successfully authenticated !!!        \n" \
+"   You are successfully authenticated                 \n" \
 "   Select the Operation                               \n" \
 "                                                      \n" \
 "   1.  Add a Student                                  \n" \
@@ -161,7 +161,7 @@
 
 
 #define STUDENT_MENU \
-"        You are successfully authenticated !!!        \n" \
+"   You are successfully authenticated                 \n" \
 "   Select the Operation                               \n" \
 "   1.  View all courses                               \n" \
 "   2.  Enroll new course                              \n" \
@@ -176,7 +176,7 @@
 
 
 #define FACULTY_MENU \
-"        You are successfully authenticated !!!        \n" \
+"   You are successfully authenticated                 \n" \
 "   Select the Operation                               \n" \
 "                                                      \n" \
 "   1.  View offered courses                           \n" \
@@ -192,7 +192,7 @@
 
 
 #define ADMIN_MOD_STUDENT_MENU \
-"    Select the Operation                              \n" \
+"   Select the Operation                               \n" \
 "                                                      \n" \
 "   1.  Name                                           \n" \
 "   2.  Age                                            \n" \
@@ -206,7 +206,7 @@
 
 
 #define ADMIN_MOD_FACULTY_MENU \
-"     Select the Operation                             \n" \
+"   Select the Operation                               \n" \
 "                                                      \n" \
 "   1.  Name                                           \n" \
 "   2.  Department                                     \n" \
@@ -221,7 +221,7 @@
 
 
 #define MOD_COURSE_MENU \
-"     Select the Operation                             \n" \
+"    Select the Operation                              \n" \
 "                                                      \n" \
 "   1.  Name                                           \n" \
 "   2.  Department                                     \n" \
